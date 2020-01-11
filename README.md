@@ -113,6 +113,7 @@ Contributions of Codex members on Github
 | Rijul Das | [RIJULDAS](https://github.com/RIJULDAS)
 | Pratik Sonal | [PratikSonal](https://github.com/PratikSonal)
 | Sayantan Paul | [belikesayantan](https://github.com/belikesayantan)
+| Rishika Wadhera| [Rishika6](https://github.com/Rishika6)
 # Screenshots
 
 ![](./screenshot.png)
