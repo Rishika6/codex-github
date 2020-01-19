@@ -46,6 +46,7 @@ Contributions of Codex members on Github
 
 | Name | Github Username |
 |:------|:----------------:|
+|Rishika Wadhera| [Rishika6](https://github.com/Rishika6)
 |Shivangi Bose | [Shivangibose](https://github.com/Shivangibose)
 |Tarique Nasar| [NasarTarique](https://github.com/NasarTarique)
 | Jyotiraditya Prasad Dash | [JyotiradityaPrDash](https://github.com/JyotiradityaPrDash)
